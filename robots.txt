@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-4pltmf.juragan89a.site/sitemap.xml
